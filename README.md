@@ -1,2 +1,2 @@
 # aprendiendogit
-Mi primer repositorio en Git
+Mi primer repositorio en Git en las FCT
